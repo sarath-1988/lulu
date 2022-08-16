@@ -1,0 +1,233 @@
+.container{
+  width: 100%;
+  height: 3290px;
+  display: flex;
+  flex-direction: column;
+  background-color: palevioletred;
+}
+.div-1{
+    background-color:#fff;
+    width: 100%;
+    height: 90px;
+    
+    display: flex;
+    flex-direction: row;
+    
+
+}
+.img-div-1{
+  width: 80%;
+  height: 90px;
+  display: flex;
+  flex-direction: row;
+
+  
+}
+.header-list{
+  margin-left: 250px;
+   display: inline-block;
+   padding: 5px 10px;
+   float: left;
+   
+ }
+
+li{
+  display: inline-block;
+  margin: 15px;
+  font-weight: 700;
+  font-size: 18px;
+  color: black;
+
+}
+.search-div{
+ 
+
+  width: 25%;
+  height: 80px;
+  background-color:white;
+
+}
+
+
+.div-2{
+  width: 100%;
+  height: 800px;
+  position: relative;
+
+  color: white;
+}
+/* .div-2-vdo{
+  position: absolute;
+} */
+.div-2-text{
+  position: absolute;
+}
+.div-3{
+  width: 100%;
+  height: 700px;
+  background-color:#cfcac7;
+  float: left;
+  display: flex;
+  flex-direction: row;
+
+
+}
+.div-3-1{
+  width:60%;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+}
+.div-3-1-text{
+  position: absolute;
+}
+.div-3-2
+{
+  width: 40%;
+  background-color: rgba(208, 114, 6, 0.67);
+  display: flex;
+  justify-content: safe;
+  position: relative;
+
+}
+.div-3-2-text{
+  position: absolute;
+}
+
+
+
+
+.img-lulu{
+    left: 85px;
+    top: 12px;
+    width: 155px;
+    z-index: 1;
+    display: block;
+    float: left;
+
+    
+}
+
+   a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  #location{
+    margin-top: 40px;
+    margin-left: 30px;
+    width: 70px;
+
+  }
+  #srch-btn{
+    margin-left: 30px;
+    border: none;
+    width: 90px;
+  }
+  #dropdn{
+    margin-left: 30px;
+  }
+  #vd{
+  
+    min-width:100%;
+    height: 100%;
+    
+  }
+  
+  .div-4{
+    width: 100%;
+    height:500px;
+    position: relative;
+
+  color: white;
+  }
+  .div-4-1{
+    position: absolute;
+  bottom: 208px;
+  left: 16px;
+  }
+  .div-4-2{
+    position: absolute;
+  
+
+
+  }
+ 
+  .div-5{
+    width: 100%;
+    height:500px;
+    
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  .div-5-1{
+
+    
+    background-color: white;
+    width:50%;
+    height: 100%;
+  }
+  .btn-5-1{
+    background-color: white;
+    width:250px;
+    height: 30px;
+    float: left;
+    padding-top: 10px;
+    margin-left: 10px;
+
+  }
+  .div-5-2{
+    width: 25%;
+    height: 100%;
+    background-color: white;
+
+  }
+  #img-5-2{
+    width: 90%;
+    height: 90%;
+    margin-top: 20px;
+  }
+  .div-5-3{
+    
+    width: 25%;
+    height: 100%;
+    background-color: white;
+  }
+  #img-5-3{
+    width: 90%;
+    height: 90%;
+    margin-top: 20px;
+
+  }
+  .div-5-2:hover{
+    width: 33%;
+  }
+  .div-5-3:hover{
+    width: 33%;
+  }
+  .div-6{
+    width: 100%;
+    height: 700px;
+    display: flex;
+  justify-content: safe;
+    position: relative;
+  
+
+  }
+  
+
+    
+  
+  .div-6-1{
+    position: absolute;
+    margin-left: 800px;
+  }
+  
+
+
+
+  
+
+ 
